@@ -1,7 +1,9 @@
-# Projeto GTA Landing Page
+# 🔥 GTA Landing Page
 
-## Description
-This project was entirely built during the 'Semana do Zero ao Programador Contratado' course by Dev em Dobro, including the interactive elements, responsive design, and animations. I customized it by adapting the design with different images and personal choices to make it my own, while using it as a learning tool for HTML, CSS, and JavaScript. The page features GTA-themed visuals, including character models, cityscapes, and game-inspired UI components, all built from scratch to demonstrate modern web development techniques.
+This project is a landing page inspired by the GTA universe, created during the Semana do Zero ao Programador Contratado by Dev em Dobro.
+It was built as an early front-end learning project, focused on practicing HTML, CSS, and JavaScript.
+The layout is not fully responsive, reflecting my skill level at the time.
+I customized the visuals and layout to give the project a personal style and keep it as a milestone of my learning journey.
 
 ## 🛠️ Technologies Used
 - HTML
